@@ -5,6 +5,8 @@ MediCare est une application web full-stack développée dans le cadre d'un proj
 
 L'application est composée d'un frontend développé avec React.js et d'un backend développé avec Flask (Python), communiquant via une API REST et utilisant SQLite comme base de données.
 
+
+
 🚀 Fonctionnalités
 Gestion des patients
 Ajouter un patient
@@ -51,6 +53,9 @@ Postman
 DB Browser for SQLite
 Git
 GitHub
+
+
+
 📂 Structure du projet
 MediCare/
 │
@@ -78,6 +83,8 @@ MediCare/
 │   └── clinique.db
 │
 └── README.md
+
+
 ⚙️ Installation
 1. Cloner le projet
 git clone https://github.com/votre-utilisateur/MediCare.git
@@ -126,6 +133,9 @@ npm run dev
 Le frontend est disponible sur :
 
 http://localhost:5173
+
+
+
 📊 Architecture
 Utilisateur
       │
@@ -151,6 +161,7 @@ Gestion des rendez-vous
 Dossiers médicaux
 Statistiques
 
+
 Exemple :
 
 docs/dashboard.png
@@ -163,6 +174,7 @@ Manipuler une API REST.
 Gérer une base de données SQLite.
 Mettre en pratique React et Flask.
 Appliquer les principes du développement web moderne.
+
 🔒 Fonctionnalités futures
 Authentification sécurisée (JWT)
 Gestion des rôles (Administrateur, Médecin, Secrétaire)
@@ -170,6 +182,7 @@ Notifications par e-mail
 Export PDF des dossiers médicaux
 Tableau de bord avancé
 Déploiement sur le cloud
+
 👩‍💻 Auteur
 
 Maram Sendesni
